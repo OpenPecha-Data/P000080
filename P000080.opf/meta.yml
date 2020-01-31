@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །སྔགས་ཀྱི་སྤྱི་དོན་དང་གསང་སྙིང་སྐོར་བཞུགས། །
+  authors:
+  - མཛད་པ་པོ། སྔགས་ཀྱི་སྤྱི་དོན་དང་གསང་སྙིང་སྐོར་བཞུགས་སོ།
+  sku: SHE-014
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A General Presentation of Tantra and Various Texts on the Guhyagharbha Tantra
+    bo: སྔགས་ཀྱི་སྤྱི་དོན་དང་གསང་སྙིང་སྐོར་བཞུགས་སོ།
+  collection:
+    en: Shechen Tantra Series–  Book 14
+    bo: ''
+  author:
+    en: Missing
+    bo: ''
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-014
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-014.epub
+  description:
+    en: ''
+    bo: ''
