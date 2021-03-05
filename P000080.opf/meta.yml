@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000080
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྔགས་ཀྱི་སྤྱི་དོན་དང་གསང་སྙིང་སྐོར་བཞུགས། །
   authors:
   - མཛད་པ་པོ། སྔགས་ཀྱི་སྤྱི་དོན་དང་གསང་སྙིང་སྐོར་བཞུགས་སོ།
-  sku: SHE-014
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - sabche
+  id: SHE-014
 web_metadata:
   title:
     en: A General Presentation of Tantra and Various Texts on the Guhyagharbha Tantra
